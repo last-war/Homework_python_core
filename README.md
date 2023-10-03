@@ -1,1 +1,1 @@
-# Homework_python_core
+# Homeworks from python core GoIT course
